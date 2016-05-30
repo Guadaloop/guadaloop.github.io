@@ -1,0 +1,20 @@
+.page_header {
+    padding-top: 5%;
+    color: #0f0f0f;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.post-list {
+    list-style: none;
+    padding: 0;
+}
+
+.panel {
+	margin-top: 40px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
